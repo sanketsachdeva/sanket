@@ -4,3 +4,4 @@ npm test
 npm test -- 'LinkedList'
 rm -rf ./node_modules
 npm i
+npm test -- 'playground'
